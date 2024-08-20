@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1721684983 source:c:\users\tiago\downloads\simuladorcircuito\bool3s.cpp
+	"bool3S.h"
+
+1721684983 c:\users\tiago\downloads\simuladorcircuito\bool3s.h
+	<iostream>
+
+1722375732 source:c:\users\tiago\downloads\simuladorcircuito\circuito-main.cpp
+	<iostream>
+	<string>
+	"circuito.h"
+
+1722135229 c:\users\tiago\downloads\simuladorcircuito\circuito.h
+	"bool3S.h"
+	"porta.h"
+
+1722192488 c:\users\tiago\downloads\simuladorcircuito\porta.h
+	<string>
+	<vector>
+	"bool3S.h"
+
+1722375482 source:c:\users\tiago\downloads\simuladorcircuito\circuito.cpp
+	"circuito.h"
+	<fstream>
+
+1722370886 source:c:\users\tiago\downloads\simuladorcircuito\porta.cpp
+	"porta.h"
+
